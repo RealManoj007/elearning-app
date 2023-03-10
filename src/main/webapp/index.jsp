@@ -12,6 +12,10 @@
     function doNotAsk(){
       //bug no 124
     }
+
+    function ask(){
+      //bug 125
+    }
   </script>
 </body>
 </html>
