@@ -8,6 +8,10 @@
     function confirm(){
       //this is for bug 121
     }
+
+    function doNotAsk(){
+      //bug no 124
+    }
   </script>
 </body>
 </html>
