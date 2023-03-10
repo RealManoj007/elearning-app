@@ -8,6 +8,7 @@
     function confirm(){
       //this is for bug 121
     }
+<<<<<<< Updated upstream
 
     function doNotAsk(){
       //bug no 124
@@ -16,6 +17,8 @@
     function ask(){
       //bug 125
     }
+=======
+>>>>>>> Stashed changes
   </script>
 </body>
 </html>
