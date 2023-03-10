@@ -9,6 +9,7 @@
       //this is for bug 121
     }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
     function doNotAsk(){
       //bug no 124
@@ -17,6 +18,8 @@
     function ask(){
       //bug 125
     }
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
   </script>
