@@ -5,10 +5,9 @@
   <span> This is new changes added by admin in Github </span>
   <testconflict>Test tge conflict</testconflict>
   <script>
-    //bug-122
-  delete{ 
-    //check the bug-122
-  }
+    function confirm(){
+      //this is for bug 121
+    }
   </script>
 </body>
 </html>
