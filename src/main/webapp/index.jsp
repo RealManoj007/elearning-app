@@ -18,6 +18,11 @@
     function ask(){
       //bug 125
     }
+
+    function bug127(){
+      //bug 127
+    }
+
 =======
 >>>>>>> Stashed changes
 =======
